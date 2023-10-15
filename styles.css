@@ -1,0 +1,42 @@
+
+section {
+    border: 3px solid black;
+    width: 225;
+    margin-left: auto;
+    margin-right: auto;
+}
+div {
+    background-color: black;
+    height: 250;
+    width: 250;
+    float: right;
+}
+body {
+    background-color: maroon;
+}
+#section2 {
+    margin-left: 50;
+    width: 300;
+    
+    float: right;
+}
+header {
+    text-align: center;
+}
+#section4 {
+    height: 250;
+    width: 1000;
+}
+h1 {
+    text-align: center;
+}
+#div2 {
+    background-color: aliceblue;
+}
+#ham {
+    color: aliceblue;
+    
+}
+#ul1 {
+    color: aliceblue;
+}
